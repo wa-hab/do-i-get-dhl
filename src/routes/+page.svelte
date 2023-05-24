@@ -30,7 +30,7 @@
 			{modalText}
 		</p>
 		<div class="modal-action">
-			<label for="my-modal-6" class="btn">Yay!</label>
+			<label for="my-modal-6" class="btn">Thanks!</label>
 		</div>
 	</div>
 </div>
